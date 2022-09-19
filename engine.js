@@ -437,7 +437,7 @@ var GamePoints = function() {
   this.draw = function(ctx) {
     ctx.save();
     ctx.font = "bold 18px arial";
-    ctx.fillStyle= "#00FF00";
+    ctx.fillStyle= "#29b730";
 
     var txt = "" + Game.points;
     var i = pointsLength - txt.length, zeros = "";

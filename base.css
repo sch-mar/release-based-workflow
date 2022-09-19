@@ -29,7 +29,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	/* Add background-color declaration here */
+	background-color: black;
 }
 ol, ul {
 	list-style: none;
@@ -57,6 +57,5 @@ table {
 
 /* Give canvas a background */
 canvas {
-  background-color:black;
-
+  background-color: black;
 }
